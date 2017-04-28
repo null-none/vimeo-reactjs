@@ -1,0 +1,15 @@
+{
+  "name": "vimeo-reactjs",
+  "version": "0.0.1",
+  "description": "React component acting as Vimeo iFrame.",
+  "main": "vimeo.js",
+  "keywords": [
+    "reactjs",
+    "vimeo",
+    "react",
+    "react vimeo"
+  ],
+  "url" : "https://github.com/null-none/vimeo-reactjs",
+  "author": "Dmitry Kalinin",
+  "license": "MIT"
+}
